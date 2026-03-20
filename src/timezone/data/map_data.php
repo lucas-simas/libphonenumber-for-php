@@ -2355,7 +2355,7 @@ return  [
     52987 => 'America/New_York',
     52998 => 'America/New_York',
     53 => 'America/Havana',
-    54 => 'America/Buenos_Aires',
+    54 => 'America/Argentina/Buenos_Aires',
     55 => 'America/Manaus&America/Noronha&America/Rio_Branco&America/Sao_Paulo',
     551 => 'America/Sao_Paulo',
     552 => 'America/Sao_Paulo',
