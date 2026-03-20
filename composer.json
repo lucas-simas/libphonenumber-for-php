@@ -1,5 +1,5 @@
 {
-  "name": "giggsey/libphonenumber-for-php",
+  "name": "lucas-simas/libphonenumber-for-php",
   "type": "library",
   "description": "PHP Port of Google's libphonenumber",
   "keywords": [
@@ -10,7 +10,7 @@
     "geocoding",
     "geolocation"
   ],
-  "homepage": "https://github.com/giggsey/libphonenumber-for-php",
+  "homepage": "https://github.com/lucas-simas/libphonenumber-for-php",
   "license": "Apache-2.0",
   "support": {
     "source": "https://github.com/giggsey/libphonenumber-for-php",
